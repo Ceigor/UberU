@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UberUber.iml" filepath="$PROJECT_DIR$/UberUber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UberU.iml" filepath="$PROJECT_DIR$/UberU.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
